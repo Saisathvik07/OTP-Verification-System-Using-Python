@@ -2,7 +2,7 @@
 
 A secure and reliable OTP (One-Time Password) Verification System built using Python. This project automates the process of generating and sending OTPs to users via email for verification purposes, ensuring secure user authentication.
 
-Features:
+# Features:
 
 Generates a 6-digit OTP randomly for each verification session.
 
@@ -14,7 +14,7 @@ Features error handling to manage invalid inputs and expired OTPs gracefully.
 
 Designed for scalability and easy integration with web or mobile applications.
 
-Technologies Used:
+# Technologies Used:
 
 Programming Language: Python
 Libraries: smtplib, email.message, hashlib, time, random
@@ -31,7 +31,7 @@ The system verifies the entered OTP against the original and checks its validity
 
 If the OTP matches and is valid, the user is authenticated successfully.
 
-Applications:
+# Applications:
 
 User authentication for secure login systems.
 
@@ -39,7 +39,7 @@ Payment gateway verification processes.
 
 Account recovery and password reset workflows.
 
-Repository Highlights:
+# Repository Highlights:
 
 Code Simplicity: Clear and concise implementation, making it beginner-friendly.
 
